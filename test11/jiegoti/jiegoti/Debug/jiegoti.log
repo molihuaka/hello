@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C\test11\jiegoti\jiegoti\源.cpp(66,2): warning C4091: “typedef ”: 没有声明变量时忽略“stu”的左侧
+  jiegoti.vcxproj -> D:\C\test11\jiegoti\Debug\jiegoti.exe
